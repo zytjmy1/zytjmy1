@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 
 ### 💫 关于我
 这里是一段简短而酷炫的自我介绍。
-- 🔭 我目前专注于 **[某个领域，如：全栈开发 / AI 研究]**
-- 🌱 我正在学习 **[某种新技术，如：Rust 或 LLM 微调]**
-- 👯 我希望在 **[开源项目或某类合作]** 方面进行协作
-- 💬 如果你有关于 **[你的专业领域]** 的问题，欢迎找我聊聊
+- 🔭 我目前专注于 **[AI 研究]**
+- 🌱 我正在学习 **[TCS 理论计算机科学]**
+- 👯 我希望在 **[南京审计大学校园资源共建]** 方面进行协作
+- 💬 如果你有关于 **[计算机科学与技术]** 的问题，欢迎找我聊聊
 
 ---
 
@@ -45,12 +45,12 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub 统计数据
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radical&hide_langs_below=1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zytjmy1&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zytjmy1&layout=compact&theme=radical&hide_langs_below=1" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=你的用户名&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zytjmy1&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
