@@ -57,10 +57,10 @@ Here are some ideas to get you started:
 
 ### 📫 如何联系我
 <p align="left">
-  <a href="mailto:你的邮箱@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="你的知乎/博客链接"><img src="https://img.shields.io/badge/Blog-信号-blue?style=flat-square&logo=rss" /></a>
+  <a href="mailto:sr62200332023@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://blog.csdn.net/Sr6220033?spm=1000.2115.3001.5343"><img src="https://img.shields.io/badge/Blog-信号-blue?style=flat-square&logo=rss" /></a>
 </p>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=你的用户名&label=Profile%20views&color=0e75b6&style=flat" alt="访问量统计" />
+  <img src="https://komarev.com/ghpvc/?username=zytjmy1&label=Profile%20views&color=0e75b6&style=flat" alt="访问量统计" />
 </p>
