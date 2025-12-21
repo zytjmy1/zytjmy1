@@ -57,8 +57,8 @@ Here are some ideas to get you started:
 
 ### 📫 如何联系我
 <p align="left">
-  <a href="mailto:sr62200332023@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://blog.csdn.net/Sr6220033?spm=1000.2115.3001.5343"><img src="https://img.shields.io/badge/Blog-信号-blue?style=flat-square&logo=rss" /></a>
+  <a href="mailto:sr62200332023@outlook.com"><img src="https://img.shields.io/badge/Email-Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" /></a>
+  <a href="https://blog.csdn.net/Sr6220033?spm=1000.2115.3001.5343"><img src="https://img.shields.io/badge/Blog-CSDN-blue?style=flat-square&logo=rss" /></a>
 </p>
 
 <p align="right">
